@@ -1,4 +1,4 @@
-Paypal REST API Payment using Spring Boot
+Paypal SDK Integration Rest API for CurryPot Application
 =========================================
 This is sample project how to implement paypal rest api to spring boot web application,
 if you see pom.xml it will show you that it's using spring boot 1.3.0 starter web, using thymeleaf as template engine, and Paypal Java SDK.
